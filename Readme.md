@@ -644,7 +644,7 @@ VITE_API_URL=http://localhost:8082/api/v1
 ## Clone Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/AnujGupta-2674/Sort_My_Scene_Assessment.git
 ```
 
 ---
