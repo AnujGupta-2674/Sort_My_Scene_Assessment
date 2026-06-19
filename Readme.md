@@ -312,8 +312,6 @@ Reasons:
 * Cleaner database design
 * Avoids large event documents
 
-Although the assignment uses only a few seats per event, this structure scales better if an event contains hundreds or thousands of seats.
-
 ---
 
 # Why Separate Reservation and Booking?
